@@ -11,7 +11,7 @@ Scraps Anime information from the site MyAnimeList
 
 To be added...
 
-## Documentations
+## Documentation
 
 To be added...
 
