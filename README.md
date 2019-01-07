@@ -54,7 +54,7 @@ System.out.println("Rank: " + ani.rank);
 System.out.println("Genres: " + ani.genre);
 System.out.println(ani.json());
 
-// Console
+// Console Output
 Title: One Piece
 Rank: #93
 Genres: Action, Adventure, Comedy, Super Power, Drama, Fantasy, Shounen
