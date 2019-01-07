@@ -38,11 +38,11 @@ String synopsis;
 ```
 An `Anime` object has the following functions:
 ```java
-printInfo() // prints out all the properties of Anime object
+printInfo() // prints out all the properties of an Anime object
 
-json() // returns all the properties of Anime object in json format as a String
+json() // returns all the properties of an Anime object in json format as a String
 
-export("file name") // exports all the properties of Anime object into a .txt file with called "file name"
+export("file name") // exports all the properties of Anime object into a .txt file called "file name"
 ```
 
 ## Examples
